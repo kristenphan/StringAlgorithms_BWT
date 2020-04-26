@@ -1,6 +1,6 @@
-# SuffixArrays: Build Burrows-Wheeler Transform (BWT) - Slow Implementation
+# Suffix Arrays: Build Burrows-Wheeler Transform (BWT) - Slow Implementation
 
-"__Repository Description:__
+__Repository Description:__
 <br/>
 This repository stores the work as part of the Data Structures and Algorithms specialization courses by University California of San Diego. Course URL: https://www.coursera.org/specializations/data-structures-algorithms. Code in this repository is written by myself, Kristen Phan.
 <br/>
