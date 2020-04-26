@@ -1,4 +1,4 @@
-# Suffix Arrays: Build Burrows-Wheeler Transform (BWT) - Slow Implementation
+# Suffix Arrays: Construct Burrows-Wheeler Transform (BWT) from String
 
 __Repository Description:__
 <br/>
